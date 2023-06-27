@@ -10,6 +10,6 @@ pip install bcml --no-input >nul
 echo bcml package installed.
 
 echo Done! Opening BCML
-bcml
+start ""bcml
 timeout 2
 exit
