@@ -2,7 +2,7 @@
 
 
 ## About <a name = "about"></a>
-This is just a simple script meant to simplify the uninstallment of BCML, deletion of its merged folder, and reinstallment of BCML.
+This is just a simple script meant to simplify the uninstallment of BCML, deletion of its merged folder, and reinstallment of BCML. I originally wrote it in powershell, then python, then realized it was easier and simpler for the user to make a batch file.
 
 ## Usage <a name = "usage"></a>
 
