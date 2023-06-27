@@ -15,4 +15,4 @@ echo bcml package installed.
 
 rem Open BCML
 echo Done! Opening BCML
-bcml
+start "" "%localappdata%\Programs\Python\Python38\Scripts\bcml.exe"
