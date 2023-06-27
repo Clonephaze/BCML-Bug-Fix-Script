@@ -6,7 +6,7 @@ This is just a simple script meant to simplify the uninstallment of BCML, deleti
 
 ## Usage <a name = "usage"></a>
 
-Download the batch script by either downloading it from the [releases page](https://github.com/Clonephaze/BCML-Bug-Fix-Script/releases/latest) or by clicking the "download Raw" button on [this page](https://github.com/Clonephaze/BCML-Bug-Fix-Script/blob/main/BCML%20Bug%20Fix.bat). Be sure to save it as a .bat file. Once you have it, execute it. It will handle everything then launch BCML. Be sure to click remerge or press Ctrl+M and launch your game when complete.
+Download the batch script by either downloading it from the [releases page](https://github.com/Clonephaze/BCML-Bug-Fix-Script/releases/latest) or by clicking the "download Raw file" button on [this page](https://github.com/Clonephaze/BCML-Bug-Fix-Script/blob/main/BCML%20Bug%20Fix.bat). Be sure to save it as a .bat file. Once you have it, execute it. It will handle everything then launch BCML. Be sure to click remerge or press Ctrl+M and launch your game when complete.
 If the problem persists, try these steps again! The bug can stick around a handful of times and may need multiple attempts to solve.
 
 ## Authors <a name = "Authors"></a>
