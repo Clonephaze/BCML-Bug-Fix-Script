@@ -10,9 +10,9 @@ rd /s /q %LOCALAPPDATA%\bcml\merged
 
 rem Install the bcml package
 echo Installing bcml package...
-pip install bcml --no-input >nul
+pip install bcml==3.10.4 --no-input >nul
 echo bcml package installed.
 
 rem Open BCML
 echo Done! Opening BCML
-start "" "%localappdata%\Programs\Python\Python38\Scripts\bcml.exe"
+start cmd /c bcml
